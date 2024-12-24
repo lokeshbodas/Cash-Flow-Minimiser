@@ -40,7 +40,3 @@ Enter number of transactions: 2
 Bank1 pays Rs 50 to WorldBank via PayPal
 Bank1 pays Rs 50 to Bank2 via Visa
 ```
-
-## License
-
-This project is licensed under the MIT License.
